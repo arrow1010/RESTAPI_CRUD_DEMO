@@ -1,7 +1,7 @@
 # RESTAPI_CRUD_DEMO
 
 #Hi friends
-I have createed a demo rest api that performs all crud operations
+I have created a demo rest api that performs all crud operations
 
 how to use ?
 -Download and import project in your IDE
